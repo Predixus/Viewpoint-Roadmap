@@ -25,8 +25,9 @@ Build the Minimum Viable Product (MVP) with core functionalities that allow user
 - [ ] **Viewpoint Autonomy**
   - Currently, viewpoint requires the user to farm questions off to the relevant agents; `:insight`, `:test` etc. Viewpoint Autonomy will enable viewpoint to reliably call these agents to fufill the users query.
 - [ ] **UX Improvements**
-  - Other OAuth options (Google, Microsoft, LinkedIn etc.)
-  - 
+  - [ ] Other OAuth options (Google, Microsoft, LinkedIn etc.)
+  - [ ] Better window reactivity
+  - [ ] Chat streaming
 - [ ] **Data Upload & Storage**: 
   - CSV, Excel, JSON file support for data uploads.
   - Secure cloud storage for user data.
