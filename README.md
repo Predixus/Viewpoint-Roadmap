@@ -33,12 +33,12 @@ Build the Minimum Viable Product (MVP) with core functionalities that allow user
   - [ ] Account landing page
   - [ ] General configuration
 - [ ] **Data Upload & Storage**: 
-  - CSV, Excel, JSON file support for data uploads.
-  - Secure cloud storage for user data.
+  - [ ] CSV, Excel, JSON file support for data uploads.
+  - [ ] Secure cloud storage for user data.
 - [ ] **Dashboard**: 
-  - A personal dashboard showing repeatable analyses.
+  - [ ] A personal dashboard showing repeatable analyses.
 - [ ] **Basic Export Options**:
-  - Export analysis and visuals as PDFs or images.
+  - [ ] Export analysis and visuals as PDFs or images.
 ---
 
 ## 📈 Phase 2: TBD!
