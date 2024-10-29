@@ -15,19 +15,23 @@ Build the Minimum Viable Product (MVP) with core functionalities that allow user
 
 ### Key Features:
 - [x] **Agentic Architecture**
-  - Build the app with an Agentic approach from the ground up. Specialised agents performing specific tasks.
+  - [x] Build the app with an Agentic approach from the ground up. Specialised agents performing specific tasks.
 - [x] **Basic Visualisation and Tests**: 
-  - Bar charts, line graphs, and scatter plots for simple data exploration along with robust statistical tests.
+  - [x] Bar charts, line graphs, and scatter plots for simple data exploration along with robust statistical tests.
 - [x] **Summary Statistics**:
-  - Generate mean, median, mode, and standard deviation for selected datasets.
+  - [x] Generate mean, median, mode, and standard deviation for selected datasets.
 - [x] **User Authentication**:
-  - Sign up and login functionality with OAuth and email authentication
+  - [x] Sign up and login functionality with OAuth and email authentication
 - [ ] **Viewpoint Autonomy**
-  - Currently, viewpoint requires the user to farm questions off to the relevant agents; `:insight`, `:test` etc. Viewpoint Autonomy will enable viewpoint to reliably call these agents to fufill the users query.
+  - [ ] Currently, viewpoint requires the user to farm questions off to the relevant agents; `:insight`, `:test` etc. Viewpoint Autonomy will enable viewpoint to reliably call these agents to fufill the users query.
+  - [ ] A new SQL agent that allows queries to be run on the DB
 - [ ] **UX Improvements**
   - [ ] Other OAuth options (Google, Microsoft, LinkedIn etc.)
   - [ ] Better window reactivity
   - [ ] Chat streaming
+- [ ] **Account Management**
+  - [ ] Account landing page
+  - [ ] General configuration
 - [ ] **Data Upload & Storage**: 
   - CSV, Excel, JSON file support for data uploads.
   - Secure cloud storage for user data.
@@ -35,7 +39,6 @@ Build the Minimum Viable Product (MVP) with core functionalities that allow user
   - A personal dashboard showing repeatable analyses.
 - [ ] **Basic Export Options**:
   - Export analysis and visuals as PDFs or images.
-
 ---
 
 ## 📈 Phase 2: TBD!
