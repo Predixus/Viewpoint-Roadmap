@@ -23,7 +23,7 @@ Build the Minimum Viable Product (MVP) with core functionalities that allow user
 - [x] **User Authentication**:
   - [x] Sign up and login functionality with OAuth and email authentication
 - [ ] **Viewpoint Autonomy**
-  - [ ] Currently, viewpoint requires the user to farm questions off to the relevant agents; `:insight`, `:test` etc. Viewpoint Autonomy will enable viewpoint to reliably call these agents to fufill the users query.
+  - [x] Currently, viewpoint requires the user to farm questions off to the relevant agents; `:insight`, `:test` etc. Viewpoint Autonomy will enable viewpoint to reliably call these agents to fufill the users query.
   - [ ] A new SQL agent that allows queries to be run on the DB
 - [ ] **UX Improvements**
   - [ ] Other OAuth options (Google, Microsoft, LinkedIn etc.)
